@@ -3,10 +3,26 @@
     <title>RUNE</title>
     <link href="https://rune-mdva.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://rune-mdva.github.io/gh-pages" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2025-01-26T19:20:26+01:00</updated>
     <author>
         <name>Steven B.</name>
     </author>
     <id>https://rune-mdva.github.io/gh-pages</id>
 
+    <entry>
+        <title>Moyens de paiements sur smartphone</title>
+        <author>
+            <name>Steven B.</name>
+        </author>
+        <link href="https://rune-mdva.github.io/gh-pages/moyens-de-paiements-sur-smartphone/"/>
+        <id>https://rune-mdva.github.io/gh-pages/moyens-de-paiements-sur-smartphone/</id>
+
+        <updated>2025-01-26T19:20:26+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube-nocookie.com/embed/59lYSqynyrA" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
 </feed>
