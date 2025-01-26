@@ -3,29 +3,49 @@
     <title>RUNE</title>
     <link href="https://rune-mdva.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://rune-mdva.github.io/gh-pages" />
-    <updated>2025-01-26T19:21:06+01:00</updated>
+    <updated>2025-01-26T19:25:16+01:00</updated>
     <author>
         <name>Steven B.</name>
     </author>
     <id>https://rune-mdva.github.io/gh-pages</id>
 
     <entry>
-        <title>Moyen 2</title>
+        <title>RUNE 3</title>
         <author>
             <name>Steven B.</name>
         </author>
-        <link href="https://rune-mdva.github.io/gh-pages/moyen-2/"/>
-        <id>https://rune-mdva.github.io/gh-pages/moyen-2/</id>
+        <link href="https://rune-mdva.github.io/gh-pages/rune-3/"/>
+        <id>https://rune-mdva.github.io/gh-pages/rune-3/</id>
 
-        <updated>2025-01-26T19:21:06+01:00</updated>
+        <updated>2025-01-26T19:24:04+01:00</updated>
             <summary>
                 <![CDATA[
-                    test
+                    rune 3
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>test</p>
+                <p>rune 3</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Page TEST 2</title>
+        <author>
+            <name>Steven B.</name>
+        </author>
+        <link href="https://rune-mdva.github.io/gh-pages/page-test-2/"/>
+        <id>https://rune-mdva.github.io/gh-pages/page-test-2/</id>
+
+        <updated>2025-01-26T19:23:41+01:00</updated>
+            <summary>
+                <![CDATA[
+                    TEST
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>TEST</p>
             ]]>
         </content>
     </entry>
@@ -38,10 +58,17 @@
         <id>https://rune-mdva.github.io/gh-pages/moyens-de-paiements-sur-smartphone/</id>
 
         <updated>2025-01-26T19:20:26+01:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                    Club multimédia zhozilcbeazkufbeakfeakfeauf
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube-nocookie.com/embed/59lYSqynyrA" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+                <figure>Club multimédia </figure>
+<p> </p>
+<p>zhozilcbeazkufbeakfeakfeauf</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube-nocookie.com/embed/59lYSqynyrA" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
