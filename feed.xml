@@ -3,7 +3,7 @@
     <title>RUNE</title>
     <link href="https://rune-mdva.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://rune-mdva.github.io/gh-pages" />
-    <updated>2025-02-18T16:06:52+01:00</updated>
+    <updated>2025-02-18T16:13:14+01:00</updated>
     <author>
         <name>Steven B.</name>
     </author>
@@ -20,12 +20,12 @@
         <updated>2025-02-18T16:04:48+01:00</updated>
             <summary>
                 <![CDATA[
-                    Test
+                    Appeler le service client
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><a href="tel:+33170950103%2C%2C123%23">Test</a></p>
+                <p><a href="tel:+33170950103%2C%2C82129057653%23%2C%23">Appeler le service client</a></p>
 <p> </p>
 <p> </p>
             ]]>
